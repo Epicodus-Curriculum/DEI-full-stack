@@ -14,7 +14,7 @@ At the heart of this issue is a debate between the ideas of **equality** versus 
 
 **Equity** is the idea that we should give everyone what they need to be successful. This is very different from the idea of equality. For example, one Epicodus student with a previous coding background might find success without much support while another student might need additional support from teachers and peers in order to achieve that same success.
 
-Let’s consider another example. Epicodus used to have a technical assessment for its applicants. While this approach treated students equally, students who didn't grow up with access to technology were less likely to be able to pass that assessment. So we added the Introduction to Programming course to make our program more equitable for students with less of a technical background.
+Let's consider another example. Epicodus used to have a technical assessment for its applicants. While this approach treated students equally, students who didn't grow up with access to technology were less likely to be able to pass that assessment. So we added the Introduction to Programming course to make our program more equitable for students with less of a technical background.
 
 At Epicodus, we believe anyone can learn to code. However, that's not the same as saying that everyone is equal and that we just need to give them computers. We believe that the tech field must focus on equity in order to achieve a more diverse and effective workforce.
 

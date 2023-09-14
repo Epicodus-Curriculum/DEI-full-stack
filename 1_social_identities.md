@@ -1,4 +1,4 @@
-This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. In fact, it’s our very first lesson! This week, we will cover social identities. 
+This lesson is part of our regular Diversity, Equity, and Inclusion curriculum. In fact, it's our very first lesson! This week, we will cover social identities. 
 
 ## Social Identities and Diversity
 
@@ -14,7 +14,7 @@ As we learn about social identities in this lesson, we ask you to reflect on you
 
 According to [this article from Northwestern University](https://www.northwestern.edu/searle/initiatives/diversity-equity-inclusion/social-identities.html):
 
-> An individual’s social identity indicates who they are in terms of the groups to which they belong. Social identity groups are usually defined by some physical, social, and mental characteristics of individuals. Examples of social identities are race/ethnicity, gender, social class/socioeconomic status, sexual orientation, (dis)abilities, and religion/religious beliefs.
+> An individual's social identity indicates who they are in terms of the groups to which they belong. Social identity groups are usually defined by some physical, social, and mental characteristics of individuals. Examples of social identities are race/ethnicity, gender, social class/socioeconomic status, sexual orientation, (dis)abilities, and religion/religious beliefs.
 
 Our different identities have different impacts on our lives. For example, the article reports that:
 

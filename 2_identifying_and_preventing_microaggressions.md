@@ -16,7 +16,7 @@ Consider this excerpt from a [blog post by Jules Walter, a Black software engine
 
 > Have you ever spent time in a place where you’re in the minority, even briefly? At an event, for example, or in another country? Think about how you felt being the only man at an event attended primarily by women, or the only white person in an entire train station in a predominantly African-American neighborhood. If you have never experienced this, try it. The feeling of being an outsider, of not belonging, is what many minorities experience in the workplace on a regular basis.
 
-> Until recently in my career, I was always the only black person on my team. Coworkers have generally been nice to me, but it’s hard to ignore that I’m noticeably different when no one else at work looks like I do. I’ve learned to ignore this feeling of being an outsider, but it always comes back eventually, whether it’s during meetings with executive leadership, while walking into a company’s office for an onsite interview, or in other work-related situations.
+> Until recently in my career, I was always the only black person on my team. Coworkers have generally been nice to me, but it's hard to ignore that I’m noticeably different when no one else at work looks like I do. I’ve learned to ignore this feeling of being an outsider, but it always comes back eventually, whether it's during meetings with executive leadership, while walking into a company's office for an onsite interview, or in other work-related situations.
 
 In a [recent survey](https://www.cnn.com/2018/12/04/success/only-ones-diversity), women told how similar "feeling[s] of being an outsider" affected them:
 
@@ -24,7 +24,7 @@ In a [recent survey](https://www.cnn.com/2018/12/04/success/only-ones-diversity)
 
 Read one last story now, this time [from Lindsay Grizzard, a woman on an otherwise all-male software development team](https://www.fastcompany.com/40512537/i-was-the-only-woman-in-my-company-for-two-long-years):
 
-> This is how it is working as a woman on an all-male team: You can never put your finger on exactly whether it’s the gender thing or whether it’s just a personal thing or whatever. [For example,] my tech lead would only ever Slack me. It was really hard to get him to come sit down next to me and help me, which is a really common thing to do in coding. But he would do that with everyone else. At first I didn’t really notice it, but after six months, it was like every time, even if I would ask him to come pair-program with me for a little while, it would be like pulling teeth. 
+> This is how it is working as a woman on an all-male team: You can never put your finger on exactly whether it's the gender thing or whether it's just a personal thing or whatever. [For example,] my tech lead would only ever Slack me. It was really hard to get him to come sit down next to me and help me, which is a really common thing to do in coding. But he would do that with everyone else. At first I didn’t really notice it, but after six months, it was like every time, even if I would ask him to come pair-program with me for a little while, it would be like pulling teeth. 
 
 When we're already tense from sticking out, the uncertainty of whether and why we're being treated differently can eat away at us and make it difficult to participate. And others' discomfort with our "otherness" can often lead them to treat us differently.
 
@@ -105,7 +105,7 @@ Here are guidelines on handling microaggressions targeted at you and communities
 
 * You are _never_ required to confront someone if you don't want to, or don't feel comfortable. Feel free to separate yourself from the situation. It's okay to take time alone to process. It's also okay to talk to somebody a while after the incident.
 * Remember the difference between impact and intent. Your feelings are valid, regardless of the intent of the person committing the microaggression.
-* You may choose to tell someone they've committed a microaggression. If you wish, explain why the microaggression was hurtful. While it may be difficult, try to treat them as you would like to be treated if you accidentally hurt someone else’s feelings.
+* You may choose to tell someone they've committed a microaggression. If you wish, explain why the microaggression was hurtful. While it may be difficult, try to treat them as you would like to be treated if you accidentally hurt someone else's feelings.
 * You may also choose to discuss the situation with Epicodus staff. We will provide support, preserve your privacy, and work with you to devise a follow-up plan.
 * Please let Epicodus staff know if you ever feel threatened, unsafe, or unwelcome at any time. We are here to advocate for you.
 * If you feel you can no longer pair with another student due to microaggressions, inform Epicodus staff so we may accommodate.
