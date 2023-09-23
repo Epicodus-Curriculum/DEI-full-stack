@@ -22,7 +22,7 @@ Our different identities have different impacts on our lives. For example, the a
 
 Finally, the article notes that:
 
-> Students have multiple social identities. Some students’ social identities are attached to multiple privileged groups (e.g., heterosexual White male), multiple marginalized groups (e.g., bisexual Latinx gender non-conformist), or both privileged (e.g., upper-middle class) and marginalized (e.g., Black) groups. For most individuals, their multiple identities do not function independently. Rather, the two identities interlock and relate to the overall functioning of the self.
+> Students have multiple social identities. Some students' social identities are attached to multiple privileged groups (e.g., heterosexual White male), multiple marginalized groups (e.g., bisexual Latinx gender non-conformist), or both privileged (e.g., upper-middle class) and marginalized (e.g., Black) groups. For most individuals, their multiple identities do not function independently. Rather, the two identities interlock and relate to the overall functioning of the self.
 
 A [separate article by Dr. Saul McLeod](https://www.simplypsychology.org/social-identity-theory.html) also notes that our social identities often lead us to "see the group to which we belong (the in-group) as being different from the others (the out-group), and members of the same group as being more similar than they are. Social categorization is one explanation for prejudiced attitudes."
 
@@ -38,4 +38,4 @@ Otherwise, you can find detailed instructions on accessing the reflection prompt
 
 ### [Do you have feedback?](#do-you-have-feedback)
 
-At the end of each DEI lesson, you’ll find this section. We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).
+At the end of each DEI lesson, you'll find this section. We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://www.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback).
