@@ -1,0 +1,49 @@
+section: DEI Lessons
+order: 2
+repo: DEI-full-stack
+directory: 2_dei-lessons
+lessons:
+  - title: Social Identities
+    filename: 1_social_identities.md
+    day: weekend
+    type: lesson
+  - title: Identifying and Preventing Microaggressions
+    filename: 2_identifying_and_preventing_microaggressions.md
+    day: weekend
+    type: lesson
+  - title: Equality versus Equity
+    filename: 3_equity_vs_equality.md
+    day: weekend
+    type: lesson
+  - title: Imposter Syndrome
+    filename: 3_imposter_syndrome.md
+    day: weekend
+    type: lesson
+  - title: Asking and Listening
+    filename: 4_asking_and_listening.md
+    day: weekend
+    type: lesson
+  - title: Speaking Up
+    filename: 5_speaking_up.md
+    day: weekend
+    type: lesson
+  - title: Recognizing Privilege
+    filename: 3_recognizing_privilege.md
+    day: weekend
+    type: lesson
+  - title: 'Inclusive Terminology: Using a Main Branch'
+    filename: changing_master_to_main_gh.md
+    day: weekend
+    type: lesson
+  - title: Jokes and Appropriate Humor
+    filename: 8_jokes_and_humor.md
+    day: weekend
+    type: lesson
+  - title: Addressing Implicit Bias
+    filename: addressing_implicit_bias.md
+    day: weekend
+    type: lesson
+  - title: Understanding Stereotype Threat
+    filename: understanding_stereotype_threat.md
+    day: weekend
+    type: lesson

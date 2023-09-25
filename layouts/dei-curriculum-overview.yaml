@@ -1,0 +1,17 @@
+section: DEI Curriculum Overview
+order: 1
+repo: DEI-full-stack
+directory: 1_dei-curriculum-overview
+lessons:
+  - title: Making Epicodus an Inclusive Place
+    filename: 0c_making_epicodus_an_inclusive_place.md
+    day: weekend
+    type: lesson
+  - title: Community Agreements
+    filename: 0ca_community_agreements.md
+    day: weekend
+    type: lesson
+  - title: DEI Reflective Assignments
+    filename: 0ka_intro_to_DEI_reflections.md
+    day: weekend
+    type: lesson

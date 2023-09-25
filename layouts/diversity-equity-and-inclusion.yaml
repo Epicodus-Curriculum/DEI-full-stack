@@ -1,0 +1,6 @@
+title: Diversity, Equity, and Inclusion
+show_weeks_and_days: false
+homepage: index.md
+sections:
+  - dei-curriculum-overview.yaml
+  - dei-lessons.yaml
