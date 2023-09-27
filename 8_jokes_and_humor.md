@@ -29,7 +29,7 @@ There is a reflective assignment for this lesson. If you are ready to write your
 
 **<span class="glyphicon glyphicon-link"></span> [Reflection Prompt: Jokes and Appropriate Humor](https://epicenter.epicodus.com/journals?title=Jokes+and+Appropriate+Humor)** 
 
-Otherwise, you can find detailed instructions on accessing the reflection prompts in the [DEI Reflective Assignments](https://new.learnhowtoprogram.com/pre-work/getting-started-at-epicodus/dei-reflective-assignments#finding-the-reflection-prompts) lesson.
+Otherwise, you can find detailed instructions on accessing the reflection prompts in the [DEI Reflective Assignments](https://new.learnhowtoprogram.com/prework/getting-started-at-epicodus/dei-reflective-assignments#finding-the-reflection-prompts) lesson.
 
 ### [Do you have feedback?](#do-you-have-feedback)
 
