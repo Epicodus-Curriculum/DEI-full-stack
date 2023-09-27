@@ -36,4 +36,4 @@ If you Follow these steps to find the reflection prompt for the DEI lesson you f
 
 ### [Giving Feedback](#giving-feedback)
 
-We hope you find these reflective assignments to be thought-provoking! We always welcome feedback on your experience of the DEI curriculum, including these reflective assignments. We outline all of the ways you can give feedback in [the student handbook](https://new.learnhowtoprogram.com/introduction-to-programming/getting-started-at-epicodus/student-handbook#giving-feedback). 
+We hope you find these reflective assignments to be thought-provoking! We always welcome feedback on your experience of the DEI curriculum, including these reflective assignments. We outline all of the ways you can give feedback in [the student handbook](https://new.learnhowtoprogram.com/student-handbook#giving-feedback). 
