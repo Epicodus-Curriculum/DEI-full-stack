@@ -56,8 +56,8 @@ There is a reflective assignment for this lesson. If you are ready to write your
 
 **<span class="glyphicon glyphicon-link"></span> [Reflection Prompt: Recognizing Privilege](https://epicenter.epicodus.com/journals?title=Recognizing+Privilege)** 
 
-Otherwise, you can find detailed instructions on accessing the reflection prompts in the [DEI Reflective Assignments](https://pre-work.learnhowtoprogram.com/getting-started-at-epicodus/dei-reflective-assignments#finding-the-reflection-prompts) lesson.
+Otherwise, you can find detailed instructions on accessing the reflection prompts in the [DEI Reflective Assignments](/pre-work/getting-started-at-epicodus/dei-reflective-assignments#finding-the-reflection-prompts) lesson.
 
 ### [Do you have feedback?](#do-you-have-feedback)
 
-We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](https://pre-work.learnhowtoprogram.com/student-handbook#giving-feedback).
+We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](/pre-work/student-handbook#giving-feedback).
