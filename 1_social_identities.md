@@ -38,4 +38,4 @@ Otherwise, you can find detailed instructions on accessing the reflection prompt
 
 ### [Do you have feedback?](#do-you-have-feedback)
 
-At the end of each DEI lesson, you'll find this section. We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](/pre-work/student-handbook#giving-feedback).
+At the end of each DEI lesson, you'll find this section. We want to hear about your experience of the DEI curriculum. We outline all of the ways you can give feedback in [the student handbook](/student-handbook#giving-feedback).
