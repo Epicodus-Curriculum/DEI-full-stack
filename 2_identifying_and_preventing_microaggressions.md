@@ -122,7 +122,7 @@ Here are guidelines on handling microaggressions targeted at you and communities
 
 To create a safe and welcoming learning environment, it's important that all students treat each other, and staff, with respect, kindness, and empathy. This includes respecting and welcoming all races, genders, ability levels, sexual orientations, ages, religions, and other traits and statuses.
 
-Students that repeatedly target others with microaggressions, and/or display no improvement in this behavior after staff intervention are in violation of our Code of Conduct (in our [Student Handbook](https://www.epicodus.com/student-handbook/)) and will be asked to leave.
+Students that repeatedly target others with microaggressions, and/or display no improvement in this behavior after staff intervention are in violation of our Code of Conduct (in our [Student Handbook](https://www.learnhowtoprogram.com/student-handbook)) and will be asked to leave.
 
 ### [Continuing to Talk About Microaggressions](#continuing-to-talk-about-microaggressions)
 
