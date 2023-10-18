@@ -35,7 +35,7 @@ The tools we discuss in this lesson are adapted from [the workshop materials pro
  
 * **Check in with support staff.** Speaking up doesn't always mean speaking up in the moment or directly to a person that says something hurtful. You can also check in with other support networks at Epicodus or your workplace. Please speak up and let Epicodus staff know if an issue comes up while you are a student.
  
-* **Beware of tone policing.** According to the [Ally Skills Workshop handout](https://files.frameshiftconsulting.com/Ally%20Skills%20Workshop%20handout%20-%20Letter.pdf) from Frame Shift Consulting:
+* **Beware of tone policing.** According to the [Ally Skills Workshop handout](https://docs.google.com/document/d/1B0zNV4WKVtIB2Rsret_kbZNjtxRrewk8vbg1HAhLzCU/export?format=pdf) from Frame Shift Consulting:
  
 > When members of marginalized groups advocate for
 themselves or their ideas, it violates expectations that
